@@ -1,0 +1,47 @@
+[
+{
+"codigo":"A001",
+"producto":"Arroz Costeño 5 Kg",
+"categoria":"Abarrotes",
+"precio":22.50,
+"stock":50,
+"estado":"Disponible"
+},
+
+{
+"codigo":"A002",
+"producto":"Aceite Primor 1 Litro",
+"categoria":"Abarrotes",
+"precio":10.50,
+"stock":35,
+"estado":"Disponible"
+},
+
+{
+"codigo":"A003",
+"producto":"Azúcar Rubia 1 Kg",
+"categoria":"Abarrotes",
+"precio":5.00,
+"stock":80,
+"estado":"Disponible"
+},
+
+{
+"codigo":"L001",
+"producto":"Leche Gloria",
+"categoria":"Lácteos",
+"precio":4.20,
+"stock":60,
+"estado":"Disponible"
+},
+
+{
+"codigo":"G001",
+"producto":"Galletas Casino",
+"categoria":"Snacks",
+"precio":1.50,
+"stock":100,
+"estado":"Disponible"
+}
+
+]
